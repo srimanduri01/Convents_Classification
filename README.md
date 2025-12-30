@@ -81,13 +81,4 @@ three classification models side-by-side.
 | resnext101-32x4d    | 4160 img/s | 1210 img/s | 3.44x |
 | se-resnext101-32x4d | 3360 img/s | 1120 img/s | 3.00x |
 
-## Release notes
 
-### Changelog
-
-April 2021
-  - Ceased maintenance of ConvNets in TensorFlow1
-
-June 2020
-  - ConvNets repo restructurization
-  - Initial release of ResNext and SE-Resnext
